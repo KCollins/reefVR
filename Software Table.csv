@@ -1,0 +1,12 @@
+Software,Description,Maintainer,Open-Source?,VR?,Default Scale,Annotation,Filetypes Supported,Cleaning,SfM,Visualization (real-time)
+VR Point Cloud Editor,,,,TRUE,Flexible,,,,,TRUE
+Agisoft Metashape,,,FALSE,FALSE,N/A,,,,,FALSE
+VR Geoscience Studio,,,FALSE,TRUE,Human scale,,,,,TRUE
+Viscore,,Vid Petrovic,FALSE,FALSE,Flexible,,,,,TRUE
+OpenBrush,Formerly Tiltbrush; VR art program.,,TRUE,TRUE,Flexible,,,,,TRUE
+OpenSpace,,,TRUE,FALSE,,,,,,
+HabiCAT 3D,,,FALSE,,,,,,,
+Houdini,,,FALSE,,,,,,,
+Blender,,,,,,,,,,
+Unity,,,,,,,,,,
+Unreal Engine,,,,,,,,,,
