@@ -1,23 +1,23 @@
-Software,Description,Link,Maintainer,In Support,Open-Source?,"Accessibility (Ease of installation, use)",Cost,Computational Resources,VR?,Multi-User?,Default Scale,Annotation,Filetypes Supported,Cleaning,SfM,Visualization (real-time)
-VR Point Cloud Editor,,,,,,,,,TRUE,,Flexible,,.laz,,,TRUE
-Agisoft Metashape,,,,,FALSE,,,,FALSE,,N/A,,,,,FALSE
-VR Geoscience Studio,,,,,FALSE,,,,TRUE,,Human scale,,,,,TRUE
-Viscore,,,Vid Petrovic,,FALSE,,,,FALSE,,Flexible,,,,,TRUE
-OpenBrush,Formerly Tiltbrush; VR art program.,,,,TRUE,Yes; available on SteamVR,0,,TRUE,,Flexible,,,,,TRUE
-OpenSpace,,,,,TRUE,,0,,FALSE,,,,,,,
-HabiCAT 3D,,,,,FALSE,,,,,,,,,,,
-Houdini,,,,,FALSE,,,,,,,,,,,
-Blender,,,,,,,,,,,,,,,,
-Unity,,,,,,,,,,,,,,,,
-Unreal Engine,,,,,,,,,,,,,,,,
-VRifier,,,,,FALSE,,,,TRUE,,,,.ply,,,
-TagLab,,,,,,,,,,,,,,,,
-VRifier,,,,,,,,,,,,,,,,
-CoralNet,Web-based platform for point annotations of coral reef survey images,https://coralnet.ucsd.edu/,,,,,,,,,,,,,,
-CoralNet Toolbox,"Local version of CoralNet, patch-based image classification",https://github.com/Jordan-Pierce/CoralNet-Toolbox,Jordan Pierce,,,,,,,,,,,,,
-Click-A-Coral (Zooniverse),Zooniverse project for annotation of mesophotic coral reefs.,https://www.zooniverse.org/projects/jordan-pierce/click-a-coral,Jordan Pierce,,FALSE,,,,,,,,,,,
-NemoNet,"Satellite observations, fluid lensing, crowdsourced science",http://nemonet.info/,,?,,,,,,,,,,,,
-Open Drone Map (ODM),,,,,,,,,,,,,,,,
-ArcGIS,,,,,,,,,,,,,,,,
-QGIS,,,,,,,,,,,,,,,,
-Zephyr,,,,,,,,,,,,,,,,
+Software,Description,Link,Maintainer,In Support,Open-Source?,License,"Accessibility (Ease of installation, use)",Cost,Computational Resources,VR?,Multi-User?,Default Scale,Annotation,Filetypes Supported,Cleaning,SfM,Visualization (real-time)
+VR Point Cloud Editor,,https://ccom.unh.edu/vislab/tools/point_cloud_editor/,,,TRUE,MIT,,,,TRUE,,Flexible,,.laz,,,TRUE
+Agisoft Metashape,,https://www.agisoft.com/,,,FALSE,,,,,FALSE,,N/A,,,,,FALSE
+VR Geoscience Studio,,https://www.vrgeoscience.com/,,,FALSE,,,,,TRUE,,Human scale,,,,,TRUE
+Viscore,,,Vid Petrovic,,FALSE,,,,,FALSE,,Flexible,,,,,TRUE
+OpenBrush,Formerly Tiltbrush; VR art program.,https://openbrush.app/,,,TRUE,,"High; available on SteamVR, easy learning curve",0,,TRUE,,Flexible,,,,,TRUE
+OpenSpace,NASA-supported data visualization for planetarium domes and other displays.,https://www.openspaceproject.com/,,,TRUE,MIT,,0,,FALSE,,,,,,,
+HabiCAT 3D,"Multi-scale complexity metrics maps (rugosity, fractal dimension, etc.) for complex 3D habitat models",https://ccom.unh.edu/vislab/tools/habicat3d/,"
+Kindrat Beregovyi",,FALSE,,,,,,,,,,,,
+Houdini,3D animation software for artists,https://www.sidefx.com/products/houdini/,,,FALSE,,,,,,,,,,,,
+Blender,,https://www.blender.org/,,,TRUE,GNU GPL,,,,,,,,,,,
+Unity,,https://unity.com/,,,,,,,,,,,,,,,
+Unreal Engine,,https://www.unrealengine.com,,,,,,,,,,,,,,,
+VRifier,,https://vrifier.com/,,,FALSE,,"High; available on SteamVR, easy learning curve",,,TRUE,,,,.ply,,,
+TagLab,,https://github.com/cnr-isti-vclab/TagLab,,,,,,,,,,,,,,,
+CoralNet,Web-based platform for point annotations of coral reef survey images,https://coralnet.ucsd.edu/,,,,,,,,,,,,,,,
+CoralNet Toolbox,"Local version of CoralNet, patch-based image classification",https://github.com/Jordan-Pierce/CoralNet-Toolbox,Jordan Pierce,,,,,,,,,,,,,,
+Click-A-Coral (Zooniverse),Zooniverse project for annotation of mesophotic coral reefs.,https://www.zooniverse.org/projects/jordan-pierce/click-a-coral,Jordan Pierce,,FALSE,,,,,,,,,,,,
+NemoNet,"Satellite observations, fluid lensing, crowdsourced science",http://nemonet.info/,,?,,,,,,,,,,,,,
+Open Drone Map (ODM),,https://www.opendronemap.org/,,,,AGPLv3,,,,,,,,,,,
+ArcGIS,,,,,,,,,,,,,,,,,
+QGIS,,,,,,,,,,,,,,,,,
+Zephyr,,,,,,,,,,,,,,,,,
