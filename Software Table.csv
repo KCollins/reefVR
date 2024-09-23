@@ -1,13 +1,23 @@
-Software,Description,Maintainer,Open-Source?,VR?,Default Scale,Annotation,Filetypes Supported,Cleaning,SfM,Visualization (real-time)
-VR Point Cloud Editor,,,,TRUE,Flexible,,.laz,,,TRUE
-Agisoft Metashape,,,FALSE,FALSE,N/A,,,,,FALSE
-VR Geoscience Studio,,,FALSE,TRUE,Human scale,,,,,TRUE
-Viscore,,Vid Petrovic,FALSE,FALSE,Flexible,,,,,TRUE
-OpenBrush,Formerly Tiltbrush; VR art program.,,TRUE,TRUE,Flexible,,,,,TRUE
-OpenSpace,,,TRUE,FALSE,,,,,,
-HabiCAT 3D,,,FALSE,,,,,,,
-Houdini,,,FALSE,,,,,,,
-Blender,,,,,,,,,,
-Unity,,,,,,,,,,
-Unreal Engine,,,,,,,,,,
-VRifier,,,FALSE,TRUE,,,.ply,,,
+Software,Description,Link,Maintainer,In Support,Open-Source?,"Accessibility (Ease of installation, use)",Cost,Computational Resources,VR?,Multi-User?,Default Scale,Annotation,Filetypes Supported,Cleaning,SfM,Visualization (real-time)
+VR Point Cloud Editor,,,,,,,,,TRUE,,Flexible,,.laz,,,TRUE
+Agisoft Metashape,,,,,FALSE,,,,FALSE,,N/A,,,,,FALSE
+VR Geoscience Studio,,,,,FALSE,,,,TRUE,,Human scale,,,,,TRUE
+Viscore,,,Vid Petrovic,,FALSE,,,,FALSE,,Flexible,,,,,TRUE
+OpenBrush,Formerly Tiltbrush; VR art program.,,,,TRUE,Yes; available on SteamVR,0,,TRUE,,Flexible,,,,,TRUE
+OpenSpace,,,,,TRUE,,0,,FALSE,,,,,,,
+HabiCAT 3D,,,,,FALSE,,,,,,,,,,,
+Houdini,,,,,FALSE,,,,,,,,,,,
+Blender,,,,,,,,,,,,,,,,
+Unity,,,,,,,,,,,,,,,,
+Unreal Engine,,,,,,,,,,,,,,,,
+VRifier,,,,,FALSE,,,,TRUE,,,,.ply,,,
+TagLab,,,,,,,,,,,,,,,,
+VRifier,,,,,,,,,,,,,,,,
+CoralNet,Web-based platform for point annotations of coral reef survey images,https://coralnet.ucsd.edu/,,,,,,,,,,,,,,
+CoralNet Toolbox,"Local version of CoralNet, patch-based image classification",https://github.com/Jordan-Pierce/CoralNet-Toolbox,Jordan Pierce,,,,,,,,,,,,,
+Click-A-Coral (Zooniverse),Zooniverse project for annotation of mesophotic coral reefs.,https://www.zooniverse.org/projects/jordan-pierce/click-a-coral,Jordan Pierce,,FALSE,,,,,,,,,,,
+NemoNet,"Satellite observations, fluid lensing, crowdsourced science",http://nemonet.info/,,?,,,,,,,,,,,,
+Open Drone Map (ODM),,,,,,,,,,,,,,,,
+ArcGIS,,,,,,,,,,,,,,,,
+QGIS,,,,,,,,,,,,,,,,
+Zephyr,,,,,,,,,,,,,,,,
