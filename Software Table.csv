@@ -1,5 +1,5 @@
 Software,Description,Maintainer,Open-Source?,VR?,Default Scale,Annotation,Filetypes Supported,Cleaning,SfM,Visualization (real-time)
-VR Point Cloud Editor,,,,TRUE,Flexible,,,,,TRUE
+VR Point Cloud Editor,,,,TRUE,Flexible,,.laz,,,TRUE
 Agisoft Metashape,,,FALSE,FALSE,N/A,,,,,FALSE
 VR Geoscience Studio,,,FALSE,TRUE,Human scale,,,,,TRUE
 Viscore,,Vid Petrovic,FALSE,FALSE,Flexible,,,,,TRUE
@@ -10,3 +10,4 @@ Houdini,,,FALSE,,,,,,,
 Blender,,,,,,,,,,
 Unity,,,,,,,,,,
 Unreal Engine,,,,,,,,,,
+VRifier,,,FALSE,TRUE,,,.ply,,,
