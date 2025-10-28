@@ -2,7 +2,7 @@
 Workflows for reef photogrammetry.
 
 ```mermaid
-flowchart LR
+flowchart TD
 n1[["Structure from Motion Photogrammetry"]]-->n2[/".raw"/]
 n2-->n12["Color Correction"]
 n1-->n3[/"Images (.jpg)"/]
